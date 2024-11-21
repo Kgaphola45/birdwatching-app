@@ -52,5 +52,5 @@ Welcome to the Bird Watching App! This project aims to provide bird enthusiasts 
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/birdwatching-app.git
+git clone  https://github.com/Kgaphola45/birdwatching-app.git
 cd birdwatching-app
