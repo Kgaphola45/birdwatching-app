@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Wonder Wings</string>
+
+    <string name="signIn">Sign In</string>
+
+    <string name="signUp">Sign Up</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Add Observation-->
+    <string name="Cancel">Cancel</string>
+
+    <!--Sign in-->
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+
+    <!--Sign up-->
+    <string name="name">Name</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="surname">Surname</string>
+
+    <!--Settings-->
+    <string name="logout">Logout</string>
+
+    <!--Sign up-->
+    <string name="hotspots">Hotspots</string>
+
+    <!--Hotspots-->
+    <string name="Location">Location</string>
+
+    <!--Content Descriptions-->
+    <string name="Logo">Logo</string>
+
+    <!--Add Observation-->
+    <string name="HowMany">How many did you see?</string>
+    <string name="When">When did you see it?</string>
+    <string name="Where">Where did you see it?</string>
+    <string name="AddNote"><i>Add a note to your entry</i></string>
+
+    <!--Challenges-->
+    <string name="Challenges">CHALLENGES</string>
+    <string name="Back">Back</string>
+    <string name="PointEarnedHeading">My points earned</string>
+    <string name="WeeklyChallenges">Weekly Challenges</string>
+
+    <!--Settings Fragment-->
+    <string name="UserName">Jackson Fischer</string>
+    <string name="UserEmail">jFischer@gmail.com</string>
+    <string name="Settings"><b>Settings</b></string>
+    <string name="Units">Units</string>
+    <string name="MaxRadius">Max Radius</string>
+    <string name="About">About</string>
+    <string name="abouttext">Introducing Feather-Find: Your Ultimate Birdwatching Companion! Feather-Find is designed to take your birdwatching experience to new heights. Our app not only helps you discover local birdwatching hotspots effortlessly but also guides you there with step-by-step directions. With real-time GPS tracking, you\'ll never miss a sighting. Keep a stunning visual record of your bird encounters with an interactive map, and watch your avian discoveries come to life!</string>
+
+    <string name="Metric">Metric</string>
+    <string name="Imperial">Imperial</string>
+    <string name="AddObservation">Add Observation</string>
+
+
+    <string name="mapbox_access_token">sk.eyJ1IjoiYW5nZWxvLXQiLCJhIjoiY2xuY3hyaWtpMGt5ZTJqcXNoNzh4cjkxdiJ9.VasjYafU8FXBUIgJMxyG-Q</string>
+
+    <string name="SelectSpecies">Select a species</string>
+    <string name="SaveObservation">Save Observation</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="daily_challenges">Daily Challenges</string>
+
+</resources>
